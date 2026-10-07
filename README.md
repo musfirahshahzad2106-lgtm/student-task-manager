@@ -4,14 +4,14 @@ A web application designed for students to organize assignments, set priorities,
 
 ---
 
-##Team Members
+## Team Members
 
 * **Student 1:** Musfirah Shahzad | Roll No: BSDSF25A010 | GitHub: [musfirahshahzad2106-lgtm]
 * **Student 2:** Eman Majid | Roll No: BSDSF25A001 | GitHub: [emanmajidx-sudo]
 
 ---
 
-##Features
+## Features
 
 * **Task Management:** Add, edit, delete, and mark tasks as completed.
 * **Task Search:** Filter and search through created tasks.
@@ -19,14 +19,14 @@ A web application designed for students to organize assignments, set priorities,
 
 ---
 
-##Technologies Used
+## Technologies Used
 
 * **Frontend:** HTML5, CSS3, JavaScript
 * **Version Control:** Git, GitHub
 
 ---
 
-##Git Workflow & Branching Strategy
+## Git Workflow & Branching Strategy
 
 Our development followed a feature branch workflow with Pull Requests and Peer Reviews:
 
@@ -43,7 +43,7 @@ Our development followed a feature branch workflow with Pull Requests and Peer R
 
 ---
 
-##Git Commands Demonstrated
+## Git Commands Demonstrated
 
 * **Initialization & Setup:** `git init`, `git config`, `git remote add`
 * **Staging & Commits:** `git status`, `git add`, `git commit`, `git log'
@@ -55,7 +55,7 @@ Our development followed a feature branch workflow with Pull Requests and Peer R
 
 ---
 
-##GitHub Features Demonstrated
+## GitHub Features Demonstrated
 
 * Issue Tracking (Creating, Linking, and Closing Issues via PRs)
 * Pull Requests and Code Review Process
@@ -63,7 +63,7 @@ Our development followed a feature branch workflow with Pull Requests and Peer R
 * Release Management with Version Tagssss
 ---
 
-##How to Run
+## How to Run
 
 1. Clone the repository:
    ```bash
